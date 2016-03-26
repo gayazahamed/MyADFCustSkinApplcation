@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/**ADFFaces_Skin_File / DO NOT REMOVE**/
+@namespace af "http://xmlns.oracle.com/adf/faces/rich";
+@namespace dvt "http://xmlns.oracle.com/dss/adf/faces";
+
+af|inputText {
+    border-color: #ff56ee; 
+}
+
+af|inputText::content {
+    border-color: #ff56ee; 
+    border: 2px solid #ff56ee; 
+}
